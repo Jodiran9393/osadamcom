@@ -886,7 +886,7 @@ window.addEventListener('resize', () => {
 ```
 
 ## Contact Information
-- Phone: 08084077486
+- Phone: 0808xxxx486
 - Email: info@osadam.com
 - Instagram: @osadam_25
 - TikTok & YouTube: @iam_osadam
